@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrés Zambrano</h1>
-<h3 align="center">A passionate webdeveloper from Ecuador</h3>
+<h3 align="center">A passionate web developer from Ecuador</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
