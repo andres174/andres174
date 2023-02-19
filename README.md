@@ -23,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andres174&show_icons=true&locale=en" alt="andres174" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andres174&" alt="andres174" /></p>
+
+
+![Snake animation](https://github.com/marcotorquato/marcotorquato/blob/output/github-contribution-grid-snake.svg)
