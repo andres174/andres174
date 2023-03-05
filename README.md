@@ -24,9 +24,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andres174&" alt="andres174" /></p>
 
-<a href="https://github.com/jstrieb/github-stats#gh-light-mode-only">
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+<a href="https://github.com/andres174/github-stats#gh-light-mode-only">
+<img src="https://github.com/andres174/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+<img src="https://github.com/andres174/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
 </a>
 
 
