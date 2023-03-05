@@ -27,5 +27,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andres174&theme=dark" alt="andres174" /></p>
 
 
-![](https://raw.githubusercontent.com/andres174/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/andres174/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/andres174/gh-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/andres174/gh-stats/master/generated/languages.svg#gh-dark-mode-only)
