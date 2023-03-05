@@ -24,5 +24,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andres174&" alt="andres174" /></p>
 
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 
 ![Snake animation](https://github.com/marcotorquato/marcotorquato/blob/output/github-contribution-grid-snake.svg)
