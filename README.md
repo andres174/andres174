@@ -25,3 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andres174&show_icons=true&theme=dark&locale=en" alt="andres174" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andres174&theme=dark" alt="andres174" /></p>
+
+
+![](https://raw.githubusercontent.com/andres174/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/andres174/github-stats/master/generated/languages.svg#gh-dark-mode-only)
