@@ -26,3 +26,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andres174&theme=dark" alt="andres174" /></p>
 
+![Snake animation](https://github.com/marcotorquato/marcotorquato/blob/output/github-contribution-grid-snake.svg)
+
