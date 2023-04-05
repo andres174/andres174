@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrés Zambrano</h1>
 <h3 align="center">A passionate web developer from Ecuador</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andres174" alt="andres174" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/axzx_4" target="blank"><img src="https://img.shields.io/twitter/follow/axzx_4?logo=twitter&style=for-the-badge" alt="axzx_4" /></a> </p>
 
 - 🌱 I’m currently learning **mobile development**
@@ -21,6 +19,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andres174&show_icons=true&theme=dark&locale=en&layout=compact" alt="andres174" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andres174&show_icons=true&theme=dark&locale=en" alt="andres174" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andres174" alt="andres174" /></a> </p>
 
 
 ![Snake animation](https://github.com/marcotorquato/marcotorquato/blob/output/github-contribution-grid-snake.svg)
