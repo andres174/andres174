@@ -2,8 +2,9 @@
 <h3 align="center">A passionate developer from Ecuador</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andres174" alt="andres174" /></a> </p>
-
+<--
 <p align="left"> <a href="https://twitter.com/axzx_4" target="blank"><img src="https://img.shields.io/twitter/follow/axzx_4?logo=twitter&style=for-the-badge" alt="axzx_4" /></a> </p>
+-->
 
 - 🔭 I’m currently working on **DeliGo**
 
