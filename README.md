@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrés Zambrano</h1>
-<h3 align="center">A web & mobile developer</h3>
+<h3 align="center"> web & mobile developer</h3>
 
 - 🔭 I’m currently working on **La tesis**
 
