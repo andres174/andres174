@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Andrés Zambrano</h1>
-<h3 align="center">A passionate developer from Ecuador</h3>
+<h3 align="center">A web/mobile developer</h3>
 
 
 <p align="left"> <a href="https://twitter.com/axzx_4" target="blank"><img src="https://img.shields.io/twitter/follow/axzx_4?logo=twitter&style=for-the-badge" alt="axzx_4" /></a> </p>
 
 
-- 🔭 I’m currently working on **DeliGo**
+- 🔭 I’m currently working on **La tesis**
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **Java Spring**
 
 - 📫 How to reach me **zambrasda17@gmail.com**
 
