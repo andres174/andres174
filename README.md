@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrés Zambrano</h1>
+<h1 align="center">Andrés Zambrano</h1>
 <h3 align="center"> web & mobile developer</h3>
 
 - 📫 How to reach me **zambrasda17@gmail.com**
